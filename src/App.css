@@ -154,3 +154,7 @@ strong {
   justify-content: space-between; 
   align-items: center;
 }
+
+.botaoEdicao{
+  margin-left: 20px;
+}

@@ -116,7 +116,7 @@ function App() {
                   onChange={(e) => setNovoConteudo(e.target.value)} 
                   placeholder="Novo conteúdo" 
                 />
-                <button onClick={salvarEdicao}>Salvar</button>
+                <button className='botaoEdicao' onClick={salvarEdicao}>Salvar</button>
               </div>
             ) : (
               <div style={{ flex: '1' }}>
