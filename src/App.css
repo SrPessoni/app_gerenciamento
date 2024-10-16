@@ -101,6 +101,7 @@ button:hover {
   border-left: 4px solid var(--corAzul);
   position: relative;
 }
+
 .periodo-container {
   margin: 5px 0;
 }
@@ -128,6 +129,7 @@ strong {
   color: var(--corAzul);
 }
 
+/* CSS das novas funcionalidades */
 .botao-excluir {
   position: absolute;
   top: 10px;
