@@ -74,7 +74,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Gerenciador de Estudos 2024</h1>
+      <h1>Gerenciador de Estudos</h1>
 
       <div className="input-container">
         <label>Dia:</label>
